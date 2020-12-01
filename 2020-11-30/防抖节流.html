@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>防抖节流</title>
+        <style>
+            div {
+                width: 300px;
+                height: 100px;
+                background-color: gainsboro;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="test"></div>
+    </body>
+    <script>
+        var div = document.getElementById('test')
+        var num = 0
+
+        /**
+         * @desc 函数防抖
+         * @param func 函数
+         * @param wait 延迟执行毫秒数
+         * @param immediate true 表立即执行，false 表非立即执行
+         */
+        function debounce(func, wait, immediate) {
+            let timeout
+
+            return function () {
+                let context = this
+                let args = arguments
+
+                if (timeout) {
+                    clearTimeout(timeout)
+                    console.log(timeout)
+                }
+                if (immediate) {
+                    var callNow = !timeout
+                    timeout = setTimeout(() => {
+                        timeout = null
+                    }, wait)
+                    if (callNow) func.apply(context, args)
+                } else {
+                    timeout = setTimeout(function () {
+                        func.apply(context, args)
+                    }, wait)
+                }
+            }
+        }
+
+        function count() {
+            num++
+            div.innerText = num
+        }
+
+        div.onmousemove = debounce(count, 200, true)
+
+        // 时间戳版
+        function throttle(func, wait) {
+            let previous = 0
+            return function () {
+                let now = Date.now()
+                let context = this
+                let args = arguments
+                if (now - previous > wait) {
+                    func.apply(context, args)
+                    previous = now
+                }
+            }
+        }
+
+        // 计时器版
+        function throttle2(func, wait) {
+            let timeout
+
+            return function () {
+                // this环境+参数
+                let context = this
+                let args = arguments
+
+                // 如果定时器消失了，才会执行function
+                if (!timeout) {
+                    // 定时器
+                    timeout = setTimeout(() => {
+                        // 时间到了，清除定时器id，并执行
+                        timeout = null
+                        func.apply(context, args)
+                    }, wait)
+                }
+            }
+        }
+
+        div.onmousemove = throttle2(count, 1000)
+    </script>
+</html>
