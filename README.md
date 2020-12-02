@@ -20,8 +20,9 @@ Javascript：[JavaScript复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5E
    - [x] 复习
 
 ## 前端-D3-2020/12/02
-   - [ ] 复习
-   - [ ] [深克隆和浅克隆](https://www.wolai.com/mary/qH1g6wb4C9EvSZCFFDmpVz)
-   - [ ] [数组拍平](https://www.wolai.com/mary/xeDL9FvoMQHQoaj7eYGvga)
-   - [ ] [setTimeout实现setInterval]()
-   - [ ] [函数合成(compose)+柯里化(currying)](https://www.wolai.com/mary/W3En5QZHtYc3FfVCPiZFt)
+   - [x] 复习
+   - [x] [深克隆和浅克隆](https://www.wolai.com/mary/qH1g6wb4C9EvSZCFFDmpVz)
+   - [x] [splice和slice，map和forEach、 filter()、reduce()的区别](https://www.wolai.com/mary/4d3HuSKg2c4K3CHnDDWkYt)
+   - [x] [setTimeout实现setInterval](https://www.wolai.com/mary/wvPwz4FhRqgaze9SRypxPY)
+     - [html+js代码](2020-12-02/用setTImeout实现setInterval.html)
+   - [x] [如何判断一个变量是对象还是数组](https://www.wolai.com/mary/rPktXJ2xocawfXnX1vqTeD)
