@@ -14,13 +14,30 @@
         </style>
     </head>
     <body>
-        <div id="test"></div>
+        <div id="test"><p></p></div>
     </body>
     <script>
         var div = document.getElementById('test')
         var num = 0
 
         div.innerText = num
+
+        function interval(fn, time) {
+            setTimeout(() => {
+                fn()
+                interval(fn, time)
+            }, time)
+        }
+
+        function test(element) {
+            num++
+            console.log(num)
+            element.innerText = num
+        }
+
+        interval(() => {
+            test(div)
+        }, 500)
 
         function _setInterval(fn, time) {
             let context = this
@@ -30,9 +47,9 @@
             }, time)
         }
 
-        _setInterval(() => {
-            num++
-            console.log(num)
-        }, 500)
+        //_setInterval(() => {
+        //num++
+        // console.log(num)
+        //}, 500)
     </script>
 </html>

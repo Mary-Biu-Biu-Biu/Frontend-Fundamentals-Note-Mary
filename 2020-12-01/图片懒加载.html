@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>图片懒加载</title>
+        <style>
+            img {
+                display: block;
+                width: 100%;
+                height: 300px;
+                margin-bottom: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <img
+            data-src="https://cutewallpaper.org/21/snow-mountains-background/Snow-White-Mountain-Background-Wallpaper-Wallpapers-1080p.jpg"
+            alt=""
+        />
+        <img
+            data-src="https://cutewallpaper.org/21/snow-mountains-background/Snow-White-Mountain-Background-Wallpaper-Wallpapers-1080p.jpg"
+            alt=""
+        />
+        <img
+            data-src="https://cutewallpaper.org/21/snow-mountains-background/Snow-White-Mountain-Background-Wallpaper-Wallpapers-1080p.jpg"
+            alt=""
+        />
+        <img data-src="https://cutewallpaper.org/img/9.jpg" alt="" />
+        <img
+            data-src="https://cutewallpaper.org/21/snow-mountains-background/Snow-White-Mountain-Background-Wallpaper-Wallpapers-1080p.jpg"
+            alt=""
+        />
+        <img
+            data-src="https://cutewallpaper.org/21/snow-mountains-background/Snow-White-Mountain-Background-Wallpaper-Wallpapers-1080p.jpg"
+            alt=""
+        />
+        <img
+            data-src="https://cutewallpaper.org/21/snow-mountains-background/Snow-White-Mountain-Background-Wallpaper-Wallpapers-1080p.jpg"
+            alt=""
+        />
+        <img
+            data-src="https://cutewallpaper.org/21/snow-mountains-background/Snow-White-Mountain-Background-Wallpaper-Wallpapers-1080p.jpg"
+            alt=""
+        />
+        <img
+            data-src="https://cutewallpaper.org/21/snow-mountains-background/Snow-White-Mountain-Background-Wallpaper-Wallpapers-1080p.jpg"
+            alt=""
+        />
+        <img
+            data-src="https://cutewallpaper.org/21/snow-mountains-background/Snow-White-Mountain-Background-Wallpaper-Wallpapers-1080p.jpg"
+            alt=""
+        />
+        <img
+            data-src="https://cutewallpaper.org/21/snow-mountains-background/Snow-White-Mountain-Background-Wallpaper-Wallpapers-1080p.jpg"
+            alt=""
+        />
+        <img
+            data-src="https://cutewallpaper.org/21/snow-mountains-background/Snow-White-Mountain-Background-Wallpaper-Wallpapers-1080p.jpg"
+            alt=""
+        />
+    </body>
+    <script>
+        var imgs = document.querySelectorAll('img')
+        let browser = window.innerHeight
+        function lazy(imgs) {
+            // top
+            for (i = 0; i < imgs.length; i++) {
+                let img = imgs[i]
+                let top = img.getBoundingClientRect().top
+
+                if (top <= browser) {
+                    img.src = img.getAttribute('data-src')
+                }
+            }
+        }
+
+        window.onscroll = () => lazy(imgs)
+    </script>
+</html>

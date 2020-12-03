@@ -56,7 +56,24 @@
             div.innerText = num
         }
 
-        div.onmousemove = debounce(count, 200, true)
+        function dbprac(fn, time) {
+            let ready = true
+            let timer
+            return () => {
+                if (ready) {
+                    fn.call(this, arguments)
+                    ready = false
+                } else {
+                    clearTimeout(timer)
+                }
+                timer = setTimeout(() => {
+                    ready = true
+                }, time)
+            }
+        }
+
+        //div.onmousemove = debounce(count, 200, true)
+        //div.onmousemove = dbprac(count, 500, true)
 
         // 时间戳版
         function throttle(func, wait) {
@@ -93,6 +110,32 @@
             }
         }
 
-        div.onmousemove = throttle2(count, 1000)
+        function thprac(fn, time) {
+            let last = new Date()
+            return () => {
+                let current = new Date()
+                if (current - last > time) {
+                    fn.call(this, arguments)
+                    last = new Date()
+                }
+            }
+        }
+
+        function thprac2(fn, time) {
+            let ready = true
+            let timer
+            return () => {
+                if (ready) {
+                    ready = false
+                    fn.call(this, arguments)
+                    setTimeout(() => {
+                        ready = true
+                    }, time)
+                }
+            }
+        }
+
+        div.onmousemove = thprac(count, 1000)
+        //div.onmousemove = throttle2(count, 1000)
     </script>
 </html>

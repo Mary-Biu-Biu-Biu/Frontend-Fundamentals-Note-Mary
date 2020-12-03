@@ -21,8 +21,15 @@ Javascript：[JavaScript复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5E
 
 ## 前端-D3-2020/12/02
    - [x] 复习
-   - [x] [深克隆和浅克隆](https://www.wolai.com/mary/qH1g6wb4C9EvSZCFFDmpVz)
    - [x] [splice和slice，map和forEach、 filter()、reduce()的区别](https://www.wolai.com/mary/4d3HuSKg2c4K3CHnDDWkYt)
    - [x] [setTimeout实现setInterval](https://www.wolai.com/mary/wvPwz4FhRqgaze9SRypxPY)
      - [html+js代码](2020-12-02/用setTImeout实现setInterval.html)
    - [x] [如何判断一个变量是对象还是数组](https://www.wolai.com/mary/rPktXJ2xocawfXnX1vqTeD)
+
+## 前端-D4-2020/12/03
+   - [x] 复习
+   - [x] [redux工作流（理论+图）](https://www.wolai.com/mary/tFsQmZwzvzxHuvr1FcPpPY)
+   - [x] [为什么需要redux？](https://www.wolai.com/mary/m7FQAtFtFpvpWnsgEpkqGy)
+   - [x] [数组拍平](https://www.wolai.com/mary/xeDL9FvoMQHQoaj7eYGvga)
+   - [x] [ink和@import的区别](https://www.wolai.com/mary/4BzVhqrtJSzWiMYRTZik1Y)
+   - [x] [原型和原型链](https://www.wolai.com/mary/kNxiaTie7PHSBFG3MntuJz)
