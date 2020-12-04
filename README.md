@@ -33,3 +33,10 @@ Javascript：[JavaScript复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5E
    - [x] [数组拍平](https://www.wolai.com/mary/xeDL9FvoMQHQoaj7eYGvga)
    - [x] [ink和@import的区别](https://www.wolai.com/mary/4BzVhqrtJSzWiMYRTZik1Y)
    - [x] [原型和原型链](https://www.wolai.com/mary/kNxiaTie7PHSBFG3MntuJz)
+
+
+## 前端-D5-2020/12/04
+   - [x] 复习
+   - [x] [redux独自运行完整流程（代码+注释）](https://www.wolai.com/mary/mL7ZWpottr6ZJqwaeazPm7)
+   - [x] [JS中同步和异步,以及js的事件循环](https://www.wolai.com/mary/eYhJjyyUyijoPm4xNbhi6B)
+   - [x] [cookie, session, localStorage的区别](https://www.wolai.com/mary/9YQmgfdHUHDrhEvzv9jTUg)
