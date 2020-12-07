@@ -40,3 +40,8 @@ Javascript：[JavaScript复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5E
    - [x] [redux独自运行完整流程（代码+注释）](https://www.wolai.com/mary/mL7ZWpottr6ZJqwaeazPm7)
    - [x] [JS中同步和异步,以及js的事件循环](https://www.wolai.com/mary/eYhJjyyUyijoPm4xNbhi6B)
    - [x] [cookie, session, localStorage的区别](https://www.wolai.com/mary/9YQmgfdHUHDrhEvzv9jTUg)
+
+## 前端-D6-2020/12/07
+- [x] 复习
+- [x] [浏览器缓存机制](https://www.wolai.com/mary/6kL4mn5WTKxy9xyTe6eWeD)
+- [x] [HTTP报文](https://www.wolai.com/mary/ckVDvcNBSkbg4nF2ipfAZo)
