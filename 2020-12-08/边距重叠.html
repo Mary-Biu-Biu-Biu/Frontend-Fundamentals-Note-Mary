@@ -1,0 +1,71 @@
+<!-- 父元素的高度计算不包含子元素的上边距 -->
+<section class="sec">
+    <style>
+        .sec {
+            background: red;
+            overflow: hidden;
+        }
+
+        .child {
+            height: 100px;
+            margin-top: 10px;
+            background: yellow;
+        }
+    </style>
+    <article class="child"></article>
+</section>
+
+<hr />
+<hr />
+
+<!-- 兄弟元素上下边距重叠，兄元素设置下边距，第元素设置上边距，边距取两者中的较大值 -->
+<section class="borther">
+    <style>
+        .wrap {
+            overflow: hidden;
+        }
+
+        .borther .one {
+            height: 100px;
+            margin-bottom: 20px;
+            background: red;
+        }
+
+        .borther .two {
+            height: 100px;
+            margin-top: 10px;
+            background: yellow;
+        }
+    </style>
+
+    <div class="wrap"><div class="one"></div></div>
+    <div class="two"></div>
+</section>
+
+<hr />
+<hr />
+
+<!-- 空元素上下边距重叠，取较大值 -->
+<section class="empty">
+    <style>
+        .empty .one {
+            height: 100px;
+            background: red;
+        }
+
+        .empty .two {
+            margin-top: 20px;
+            margin-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .empty .three {
+            height: 100px;
+            background: yellow;
+        }
+    </style>
+    <div class="one"></div>
+    <div class="two"></div>
+
+    <div class="three"></div>
+</section>
