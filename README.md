@@ -55,3 +55,9 @@ Javascript：[JavaScript复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5E
   - [x] SVG和Canvas的区别
   - [x] 边距重叠+解决方案+BFC
     -  [html+js代码](2020-12-08/边距重叠.html) 
+
+## 前端-D8-2020/12/09
+- [x] 复习
+- [x] 2.10 浏览器渲染的流程
+- [x] 2.11 从输入url地址到页面，发生了什么
+- [x] 2.40 js渲染阻塞
