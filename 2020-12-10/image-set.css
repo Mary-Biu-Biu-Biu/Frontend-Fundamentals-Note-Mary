@@ -1,0 +1,38 @@
+body {
+    background-image: -webkit-image-set(
+        url(../images/pic-1.jpg) 1x,
+        url(../images/pic-2.jpg) 2x,
+        url(../images/pic-3.jpg) 600dpi
+    );
+
+    background-image: image-set(
+        url(../images/pic-1.jpg) 1x,
+        url(../images/pic-2.jpg) 2x,
+        url(../images/pic-3.jpg) 600dpi
+    );
+}
+/* 左右不变 */
+.content {
+    float: left;
+    width: 100%;
+}
+.center {
+    height: 200px;
+    margin-left: 220px;
+    margin-right: 220px;
+    background: yellow;
+}
+.left {
+    float: left;
+    width: 200px;
+    margin-left: -100%;
+    background: red;
+    height: 100px;
+}
+.right {
+    float: right;
+    width: 200px;
+    margin-left: -200px;
+    background: pink;
+    height: 100px;
+}

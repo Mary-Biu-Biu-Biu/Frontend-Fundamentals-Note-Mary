@@ -1,0 +1,17 @@
+<body>
+    <ul id="list">
+        <li>公司简介</li>
+        <li>联系我们</li>
+        <li>营销网络</li>
+    </ul>
+    <script>
+        var list = document.getElementById('list')
+        var li = list.children
+        for (let i = 0; i < li.length; i++) {
+            li[i].onclick = function () {
+                alert(i)
+            }
+            //把实参i赋值给形参j
+        }
+    </script>
+</body>

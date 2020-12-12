@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>测试</title>
+    </head>
+    <body>
+        <a href="#" id="size-12">12</a>
+        <a href="#" id="size-20">20</a>
+        <a href="#" id="size-30">30</a>
+
+        <script type="text/javascript">
+            function changeSize(size) {
+                return function () {
+                    document.body.style.fontSize = size + 'px'
+                }
+            }
+
+            var size12 = changeSize(12)
+            var size14 = changeSize(20)
+            var size16 = changeSize(30)
+
+            document.getElementById('size-12').onclick = size12
+            document.getElementById('size-20').onclick = size14
+            document.getElementById('size-30').onclick = size16
+        </script>
+    </body>
+</html>
