@@ -10,12 +10,10 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 2. 按照艾宾浩斯记忆法，对已学内容复习
 
 ## 前端-D1-2020/11/30
-
 -   [x] [防抖+节流（各 2 种实现方式）](https://www.wolai.com/mary/31tAtZhJXZU86nR5wueUWt#oE31y4MiDySb6Ebdeu9htH)
     -   [html+js 代码](2020-11-30/防抖节流.html)
 
 ## 前端-D2-2020/12/01
-
 -   [x] [图片懒加载](https://www.wolai.com/mary/ejfAPog1qaAu7NDKpt45mx)
 -   [x] [TCP 的三次握手和四次挥手](https://www.wolai.com/mary/inf1zCaoMJdRCYoZQXhALC)
 -   [x] [为什么建立连接是三次握手，而断开连接是四次挥手呢?](https://www.wolai.com/mary/vn4gmFeiivV3wob6vX8GVa)
@@ -23,7 +21,6 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 -   [x] 复习
 
 ## 前端-D3-2020/12/02
-
 -   [x] 复习
 -   [x] [splice 和 slice，map 和 forEach、 filter()、reduce()的区别](https://www.wolai.com/mary/4d3HuSKg2c4K3CHnDDWkYt)
 -   [x] [setTimeout 实现 setInterval](https://www.wolai.com/mary/wvPwz4FhRqgaze9SRypxPY)
@@ -31,7 +28,6 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 -   [x] [如何判断一个变量是对象还是数组](https://www.wolai.com/mary/rPktXJ2xocawfXnX1vqTeD)
 
 ## 前端-D4-2020/12/03
-
 -   [x] 复习
 -   [x] [redux 工作流（理论+图）](https://www.wolai.com/mary/tFsQmZwzvzxHuvr1FcPpPY)
 -   [x] [为什么需要 redux？](https://www.wolai.com/mary/m7FQAtFtFpvpWnsgEpkqGy)
@@ -40,14 +36,12 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 -   [x] [原型和原型链](https://www.wolai.com/mary/kNxiaTie7PHSBFG3MntuJz)
 
 ## 前端-D5-2020/12/04
-
 -   [x] 复习
 -   [x] [redux 独自运行完整流程（代码+注释）](https://www.wolai.com/mary/mL7ZWpottr6ZJqwaeazPm7)
 -   [x] [JS 中同步和异步,以及 js 的事件循环](https://www.wolai.com/mary/eYhJjyyUyijoPm4xNbhi6B)
 -   [x] [cookie, session, localStorage 的区别](https://www.wolai.com/mary/9YQmgfdHUHDrhEvzv9jTUg)
 
 ## 前端-D6-2020/12/07
-
 -   [x] 复习
 -   [x] [浏览器缓存机制](https://www.wolai.com/mary/6kL4mn5WTKxy9xyTe6eWeD)
 -   [x] [HTTP 报文](https://www.wolai.com/mary/ckVDvcNBSkbg4nF2ipfAZo)
@@ -63,14 +57,12 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
     -   [html+js 代码](2020-12-08/边距重叠.html)
 
 ## 前端-D8-2020/12/09
-
 -   [x] 复习
 -   [x] 2.10 浏览器渲染的流程
 -   [x] 2.11 从输入 url 地址到页面，发生了什么
 -   [x] 2.40 js 渲染阻塞
 
 ## 前端-D9-2020/12/10
-
 -   [x] 复习
 -   [x] doctype(文档类型) 的作用是什么？
 -   [x] src 和 href 的区别？
@@ -79,7 +71,6 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 -   [x] 你对 HTML 语义化的理解？
 
 ## 前端-D10-2020/12/11
-
 -   [x] 复习
 -   [x] 1.8 三栏布局/圣杯布局/双飞翼布局（左右固定，中间自适应）
      -   [html+js 代码](2020-12-11/三栏.html)
@@ -98,3 +89,11 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
      -   [html+js 代码](2020-12-14/CORS.html)
 - [x] 简述 JWT 的原理和校验机制
 - [x] 垃圾回收机制
+
+## 前端-D12-2020/12/15
+- [x] 复习
+- [x] 2.10 浏览器渲染的流程
+- [x] 重绘和重排在渲染过程中的哪一部分？
+- [x] Promise处理异步
+- [x] Promise.all
+   -   [html+js 代码](2020-12-15)
