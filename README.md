@@ -97,3 +97,8 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 - [x] Promise处理异步
 - [x] Promise.all
    -   [html+js 代码](2020-12-15)
+
+## 前端-D13-2020/12/16
+- [x] 复习
+- [x]  CSS 有哪些上下文类型
+- [x] JavaScript 中的严格模式
