@@ -103,6 +103,13 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 - [x]  CSS 有哪些上下文类型
 - [x] JavaScript 中的严格模式
 
+## 前端-2021/01/05
+- [x] TCP
+  - [x] 超时重传（计时器）
+  - [x] 快重传
+  - [x] 滑动窗口
+- [x] HTTP状态码（301，302，304，400，401，403，404，502，504）
+
 ## 前端-2021/01/06
 - [x] 复习
   - [x] 虚拟DOM实现原理
