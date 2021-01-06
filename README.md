@@ -102,3 +102,13 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 - [x] 复习
 - [x]  CSS 有哪些上下文类型
 - [x] JavaScript 中的严格模式
+
+## 前端-2021/01/06
+- [x] 复习
+  - [x] 虚拟DOM实现原理
+  - [x] 为什么React组件要写key
+  - [x] diff算法
+  - [x] 函数式编程
+- [x] React生命周期
+- [x] 服务端渲染（SSR）和客户端渲染
+- [x] React 的请求应该放在哪个生命周期中？

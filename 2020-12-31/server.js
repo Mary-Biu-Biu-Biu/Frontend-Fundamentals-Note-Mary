@@ -20,25 +20,3 @@ const server = http.createServer((request, response) => {
 })
 
 server.listen('3001', 'localhost')
-testArray: [
-    { text: '组件1', id: 'a' },
-    { text: '组件2', id: 'b' },
-    { text: '组件3', id: 'c' },
-    { text: '组件4', id: 'd' },
-]
-
-testArray: [
-    { text: '组件1', id: 'a' },
-    { text: '组件3', id: 'c' },
-    { text: '组件2', id: 'b' },
-    { text: '组件4', id: 'd' },
-]
-
-this.state.testArray.map((item) => {
-    return (
-        <li>
-            <span>{item.text}</span>
-            <input />
-        </li>
-    )
-})
