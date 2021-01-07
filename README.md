@@ -119,3 +119,9 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 - [x] React生命周期
 - [x] 服务端渲染（SSR）和客户端渲染
 - [x] React 的请求应该放在哪个生命周期中？
+
+## 前端-2021/01/07
+- [x] setState是同步还是异步？（不同表现+原因和机制+解决）
+- [x] redux工作流（理论+图）
+- [x] JSX是什么+原理
+- [x] React 组件通信
