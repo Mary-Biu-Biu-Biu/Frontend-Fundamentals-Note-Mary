@@ -4,10 +4,7 @@
 
 Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5EpaGFAph#kbymPXgCamKVgCksfJiQpN)
 
-每日：
 
-1. 按照计划完成当日学习内容
-2. 按照艾宾浩斯记忆法，对已学内容复习
 
 ## 前端-D1-2020/11/30
 -   [x] [防抖+节流（各 2 种实现方式）](https://www.wolai.com/mary/31tAtZhJXZU86nR5wueUWt#oE31y4MiDySb6Ebdeu9htH)
@@ -48,60 +45,60 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 
 ## 前端-D7-2020/12/08
 -   [x] 复习
--   [x] 媒体查询 @media
+-   [x] [媒体查询 @media](https://www.wolai.com/mary/8JZcE8ED7yHCfbp7MPVgTJ#3Df29HBazAcgnE6BCEAXEG)
     -   [html+js 代码](2020-12-08/媒体查询.html)
--   [x] box-sizing
+-   [x] [box-sizing](https://www.wolai.com/mary/8JZcE8ED7yHCfbp7MPVgTJ#iWGgaZfwS3xpeuiiA5hnVJ)
     -   [html+js 代码](2020-12-08/盒模型.html)
--   [x] SVG 和 Canvas 的区别
--   [x] 边距重叠+解决方案+BFC
+-   [x] [SVG 和 Canvas 的区别](https://www.wolai.com/mary/8JZcE8ED7yHCfbp7MPVgTJ#aUjJbMg42LALxJMDqSbuTq)
+-   [x] [边距重叠+解决方案+BFC](https://www.wolai.com/mary/8JZcE8ED7yHCfbp7MPVgTJ#aUjJbMg42LALxJMDqSbuTq)
     -   [html+js 代码](2020-12-08/边距重叠.html)
 
 ## 前端-D8-2020/12/09
 -   [x] 复习
--   [x] 2.10 浏览器渲染的流程
--   [x] 2.11 从输入 url 地址到页面，发生了什么
--   [x] 2.40 js 渲染阻塞
+-   [x] [2.10 浏览器渲染的流程](https://www.wolai.com/mary/sxD9sU5x4MBmP5EpaGFAph#qKpr57WuqtGiyhDbBiixNK)
+-   [x] [2.11 从输入 url 地址到页面，发生了什么](https://www.wolai.com/mary/sxD9sU5x4MBmP5EpaGFAph#4RXqoXtXxMnDhBC4zh8QcU)
+-   [x] [2.40 js 渲染阻塞](https://www.wolai.com/mary/sxD9sU5x4MBmP5EpaGFAph#o2J8ZHjci27Fp43FuJFsjT)
 
 ## 前端-D9-2020/12/10
 -   [x] 复习
--   [x] doctype(文档类型) 的作用是什么？
--   [x] src 和 href 的区别？
--   [x] img 的 srcset 的作用是什么？
+-   [x] [doctype(文档类型) 的作用是什么？](https://www.wolai.com/mary/cU8EjZ2n7VVbFVnohTvdbq#bJuameoQz4c8VcoMLn8BAH)
+-   [x] [src 和 href 的区别？](https://www.wolai.com/mary/cU8EjZ2n7VVbFVnohTvdbq#c4xjzfrUR2gcDgX9xXVSWC)
+-   [x] [img 的 srcset 的作用是什么？](https://www.wolai.com/mary/cU8EjZ2n7VVbFVnohTvdbq#49fsDfpfzuxigmRwBJeAvy)
     -   [html+js 代码](2020-12-10/srcset.html)
--   [x] 你对 HTML 语义化的理解？
+-   [x] [你对 HTML 语义化的理解？](https://www.wolai.com/mary/cU8EjZ2n7VVbFVnohTvdbq#7ZgdaH4eU68jo4UfSCuhR1)
 
 ## 前端-D10-2020/12/11
 -   [x] 复习
--   [x] 1.8 三栏布局/圣杯布局/双飞翼布局（左右固定，中间自适应）
+-   [x] [1.8 三栏布局/圣杯布局/双飞翼布局](https://www.wolai.com/mary/8JZcE8ED7yHCfbp7MPVgTJ#7Ur15q5GuFTzXT4NHJfpYK)（左右固定，中间自适应）
      -   [html+js 代码](2020-12-11/三栏.html)
--   [x] 2.8 闭包（closure）+使用场景
+-   [x] [2.8 闭包（closure）+使用场景](https://www.wolai.com/mary/sxD9sU5x4MBmP5EpaGFAph#gjvDRyV3ZBrrLsEEdSqyAt)
      -   [html+js 代码](2020-12-11/闭包.js)
--   [x] 立即执行函数+作用
+-   [x] [立即执行函数+作用](https://www.wolai.com/mary/sxD9sU5x4MBmP5EpaGFAph#bxTmqzjHvbiKEVPqG6G5U5)
      -   [html+js 代码](2020-12-11/立即执行函数.html)
--   [x] 2.20 JS 中同步和异步,以及浏览器的事件循环（新增例子分析+宏任务和微任务）
+-   [x] [2.20 JS 中同步和异步,以及浏览器的事件循环](https://www.wolai.com/mary/sxD9sU5x4MBmP5EpaGFAph#eYhJjyyUyijoPm4xNbhi6B)（新增例子分析+宏任务和微任务）
      -   [html+js 代码](2020-12-11/事件循环.html)
--   [x] 2.12 cookie, session, localStorage 的区别（新增 sessionStorage，以及 cookie 和 session 的具体流程）
+-   [x] [2.12 cookie, session, localStorage 的区别](https://www.wolai.com/mary/sxD9sU5x4MBmP5EpaGFAph#9YQmgfdHUHDrhEvzv9jTUg)（新增 sessionStorage，以及 cookie 和 session 的具体流程）
 
 ## 前端-D11-2020/12/14
 - [x] 复习
-- [x] const, let, var 的区别
-- [x] CORS 的用途以及基本设置
+- [x] [const, let, var 的区别](https://www.wolai.com/mary/sxD9sU5x4MBmP5EpaGFAph#cR7x6Qe71kKfrQbp4PSHfZ)
+- [x] [CORS 的用途以及基本设置](https://www.wolai.com/mary/sxD9sU5x4MBmP5EpaGFAph#nXcM6jbaFab8ptjknHVvLo)
      -   [html+js 代码](2020-12-14/CORS.html)
-- [x] 简述 JWT 的原理和校验机制
-- [x] 垃圾回收机制
+- [x] [简述 JWT 的原理和校验机制](https://www.wolai.com/mary/sxD9sU5x4MBmP5EpaGFAph#uR8J4yU4AUZFrbrBwBTN7L)
+- [x] [垃圾回收机制](https://www.wolai.com/mary/sxD9sU5x4MBmP5EpaGFAph#bP7aj7Hm75FrZUsmLV7AY4)
 
 ## 前端-D12-2020/12/15
 - [x] 复习
-- [x] 浏览器渲染的流程
-- [x] 重绘和重排在渲染过程中的哪一部分？
-- [x] Promise处理异步
-- [x] Promise.all
+- [x] [浏览器渲染的流程](https://www.wolai.com/mary/sxD9sU5x4MBmP5EpaGFAph#qKpr57WuqtGiyhDbBiixNK)
+- [x] [重绘和重排在渲染过程中的哪一部分？](https://www.wolai.com/mary/sxD9sU5x4MBmP5EpaGFAph#kDSEetuycfnw8kYVfQGJWs)
+- [x] [Promise处理异步](https://www.wolai.com/mary/sxD9sU5x4MBmP5EpaGFAph#n4SBRwJg3ovMZyqUhAf3CR)
+- [x] [Promise.all](https://www.wolai.com/mary/sxD9sU5x4MBmP5EpaGFAph#b6gGJaUFDKbifQcfzNwR9H)
    -   [html+js 代码](2020-12-15)
 
 ## 前端-D13-2020/12/16
 - [x] 复习
-- [x]  CSS 有哪些上下文类型
-- [x] JavaScript 中的严格模式
+- [x]  [CSS 有哪些上下文类型](https://www.wolai.com/mary/8JZcE8ED7yHCfbp7MPVgTJ#iLsR5zKWR3rh2yS5nFkbCn)
+- [x] [JavaScript 中的严格模式](https://www.wolai.com/mary/sxD9sU5x4MBmP5EpaGFAph#k6zZCubjbMegkp47HF2B7i)
 
 ## 前端-2021/01/05
 - [x] [TCP](https://www.wolai.com/6yQ6nbwtbuuGoqZQgA7CXB?theme=light)
