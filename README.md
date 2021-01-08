@@ -92,7 +92,7 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 
 ## 前端-D12-2020/12/15
 - [x] 复习
-- [x] 2.10 浏览器渲染的流程
+- [x] 浏览器渲染的流程
 - [x] 重绘和重排在渲染过程中的哪一部分？
 - [x] Promise处理异步
 - [x] Promise.all
@@ -104,24 +104,24 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 - [x] JavaScript 中的严格模式
 
 ## 前端-2021/01/05
-- [x] TCP
-  - [x] 超时重传（计时器）
-  - [x] 快重传
-  - [x] 滑动窗口
-- [x] HTTP状态码（301，302，304，400，401，403，404，502，504）
+- [x] [TCP](https://www.wolai.com/6yQ6nbwtbuuGoqZQgA7CXB?theme=light)
+  - [x] [超时重传（计时器）](https://www.wolai.com/mary/6yQ6nbwtbuuGoqZQgA7CXB#6odLGQ1Fp9saFb7SibxQMG)
+  - [x] [快重传](https://www.wolai.com/mary/6yQ6nbwtbuuGoqZQgA7CXB#fVUjWLvHTSN3UHWLZrpywV)
+  - [x] [滑动窗口](https://www.wolai.com/mary/6yQ6nbwtbuuGoqZQgA7CXB#5iMXdM8Kby1GUZro9Si2j3)
+- [x] [HTTP状态码（301，302，304，400，401，403，404，502，504）](https://www.wolai.com/gW8KYhsLXvsqjEKgy256iz?theme=light)
 
 ## 前端-2021/01/06
 - [x] 复习
-  - [x] 虚拟DOM实现原理
-  - [x] 为什么React组件要写key
-  - [x] diff算法
-  - [x] 函数式编程
-- [x] React生命周期
-- [x] 服务端渲染（SSR）和客户端渲染
-- [x] React 的请求应该放在哪个生命周期中？
+  - [x] [虚拟DOM实现原理](https://www.wolai.com/mary/fUcoYHCectgxvp6nTTMv7b#hZz8n8FAWUSNqBtLZyqNGx)
+  - [x] [为什么React组件要写key](https://www.wolai.com/mary/fUcoYHCectgxvp6nTTMv7b#4J71oScT43LrtMHPSpNM1q)
+  - [x] [diff算法](https://www.wolai.com/mary/fUcoYHCectgxvp6nTTMv7b#4iETQBBeLzgsgmJcmBSnan)
+  - [x] [函数式编程](https://www.wolai.com/mary/dMfgKKrrBkanYXKnawqFCJ#epuaaAkPAGimqEqJYf6PfE)
+- [x] [React生命周期](https://www.wolai.com/mary/fUcoYHCectgxvp6nTTMv7b#xchuWLqCkZsF75uUcap2x3)
+- [x] [服务端渲染（SSR）和客户端渲染](https://www.wolai.com/9LuLpBgSsD7g9oFnGszyRH)
+- [x] [React 的请求应该放在哪个生命周期中？](https://www.wolai.com/mary/fUcoYHCectgxvp6nTTMv7b#vYiCjGcbe5ZPEnDTAiAd77)
 
 ## 前端-2021/01/07
-- [x] setState是同步还是异步？（不同表现+原因和机制+解决）
-- [x] redux工作流（理论+图）
-- [x] JSX是什么+原理
-- [x] React 组件通信
+- [x] [setState是同步还是异步？（不同表现+原因和机制+解决）](https://www.wolai.com/mary/fUcoYHCectgxvp6nTTMv7b#461nABgr8qzFodDCaAxYrX)
+- [x] [redux工作流（理论+图）]()
+- [x] [JSX是什么+原理](https://www.wolai.com/mary/fUcoYHCectgxvp6nTTMv7b#rYWYsKJKseGUU2aaU4jdrr)
+- [x] [React 组件通信](https://www.wolai.com/mary/fUcoYHCectgxvp6nTTMv7b#9DEdWeFdoMZ5uBySRP3s1t)
