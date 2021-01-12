@@ -122,3 +122,8 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 - [x] [redux工作流（理论+图）]()
 - [x] [JSX是什么+原理](https://www.wolai.com/mary/fUcoYHCectgxvp6nTTMv7b#rYWYsKJKseGUU2aaU4jdrr)
 - [x] [React 组件通信](https://www.wolai.com/mary/fUcoYHCectgxvp6nTTMv7b#9DEdWeFdoMZ5uBySRP3s1t)
+
+## 前端-2021/01/12
+- [x] [React 如何区分组件类型](https://www.wolai.com/oBAVhZo7t3RfmyQhTPJzNh)
+- [x] [MVVM](https://www.wolai.com/tYfuWkej7cEUjm9BBLFdVK)
+- [x] [2.32 前端事件流](https://www.wolai.com/iPeoDYW5mvo2Zazb71cGv9)（复习+总结+currentTarget和target区别）
