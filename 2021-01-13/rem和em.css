@@ -1,0 +1,12 @@
+.father {
+    font-size: 12px;
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+}
+
+.son {
+    font-size: 2em;
+    width: 2em;
+    background-color: pink;
+}
