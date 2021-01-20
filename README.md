@@ -136,4 +136,12 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 - [x] [什么是替换元素与非替换元素](https://www.wolai.com/mary/vuw2muCpM1bk9cZQWFcWPz)
 
 ## 前端-2021/01/19
-- [x] [WebPack](https://www.wolai.com/kGGMie9eZy6VwBpBh4YS4C)
+- [x] 复习
+- [x] [Webpack](https://www.wolai.com/kGGMie9eZy6VwBpBh4YS4C)
+
+## 前端-2021/01/20
+- [x] axios（练习）
+- [x] React debug合集（更新了一下）
+- [x] [图片懒加载vs图片预加载](https://www.wolai.com/bRd675ynJ2a6dGaeXrTYuP)
+- [x] [js的new操作符](https://www.wolai.com/2jsYVPc9cHnQqr4afVEAEP)
+- [x] [Javascript 可以保存的最大数值](https://www.wolai.com/qnu9px1YEEAHqfXzcoQfKY)（更新原因+浮点数规范）
