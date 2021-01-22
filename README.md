@@ -145,3 +145,7 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 - [x] [图片懒加载vs图片预加载](https://www.wolai.com/bRd675ynJ2a6dGaeXrTYuP)
 - [x] [js的new操作符](https://www.wolai.com/2jsYVPc9cHnQqr4afVEAEP)
 - [x] [Javascript 可以保存的最大数值](https://www.wolai.com/qnu9px1YEEAHqfXzcoQfKY)（更新原因+浮点数规范）
+
+## 前端-2021/01/22
+- [x] [react-redux总结](https://www.wolai.com/mary/pug4JMSgnEUhTsWMu8CxNo)（写完了）
+  - [Github代码](https://github.com/Mary-Biu-Biu-Biu/learn-react/tree/react-redux)
