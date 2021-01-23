@@ -149,3 +149,11 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 ## 前端-2021/01/22
 - [x] [react-redux总结](https://www.wolai.com/mary/pug4JMSgnEUhTsWMu8CxNo)（写完了）
   - [Github代码](https://github.com/Mary-Biu-Biu-Biu/learn-react/tree/react-redux)
+
+## 前端-2021/01/23
+- [x] [JavaScript的数据类型](https://www.wolai.com/kCzp6VYSv5NHNASseZ83kY)
+- [x] [作用域链](https://www.wolai.com/sKRz5sre7DAqMCJwgPoDPH)
+- [x] 复习+新增总结
+  - [x] [垃圾回收机制](https://www.wolai.com/bP7aj7Hm75FrZUsmLV7AY4)
+  - [x] [内存泄漏（memory leak）](https://www.wolai.com/qwwq3geBqBcXs2cygGY3Lx)
+  - [x] [闭包（closure）+使用场景](https://www.wolai.com/gjvDRyV3ZBrrLsEEdSqyAt)（新增解决内存泄漏的办法）
