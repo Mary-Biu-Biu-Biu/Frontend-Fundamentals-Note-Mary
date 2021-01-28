@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title></title>
+    </head>
+    <body>
+        <p id="timer">~</p>
+    </body>
+    <script>
+        let limit = 300
+        let timerelement = document.getElementById('timer')
+        timerelement.innerText = msToTime(limit)
+
+        let timer = setInterval(() => {
+            limit -= 100
+            timerelement.innerText = msToTime(limit)
+            console.log(limit)
+            if (limit === 0) {
+                document.body.removeChild(timerelement)
+                clearInterval(timer)
+            }
+        }, 1000)
+
+        function msToTime(ms) {
+            let result = ''
+            let min = Math.floor(ms / 100 / 60)
+            result = result + min + ':'
+            let sec = (ms / 100) % 60
+            if (sec < 10) {
+                result += '0'
+            }
+            result += sec
+            return result
+        }
+    </script>
+</html>

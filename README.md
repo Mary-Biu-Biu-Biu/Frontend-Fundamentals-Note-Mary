@@ -163,3 +163,7 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 - [x] [浏览器进程和线程的区别](https://www.wolai.com/wY51U3HEGvD57EPWWmj5jh)
 - [x] 复习
   - [x] [2.40 js渲染阻塞](https://www.wolai.com/o2J8ZHjci27Fp43FuJFsjT)
+
+## 前端-2021/01/28
+《JavaScript权威指南》总结
+- [x] 第1章：JavaScript简介（Js的构成）(https://www.wolai.com/mary/96Pfb9viTHaiV9Ymtj8prc)
