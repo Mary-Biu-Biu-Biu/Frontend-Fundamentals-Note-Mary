@@ -167,3 +167,9 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 ## 前端-2021/01/28
 《JavaScript权威指南》总结
 - [x] 第1章：JavaScript简介（Js的构成）(https://www.wolai.com/mary/96Pfb9viTHaiV9Ymtj8prc)
+
+## 前端-2021/01/29
+《JavaScript权威指南》总结
+- [x] 第2章：在HTML中使用JavaScript
+- [x] 第3章：基本概念（未看完）
+  - [x] [undefined，0，null，NaN区分](https://www.wolai.com/mary/ubD5BNmvXVAEj1yH99BBV)（更新）
