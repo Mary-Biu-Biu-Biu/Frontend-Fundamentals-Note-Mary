@@ -173,3 +173,18 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 - [x] 第2章：在HTML中使用JavaScript
 - [x] 第3章：基本概念（未看完）
   - [x] [undefined，0，null，NaN区分](https://www.wolai.com/mary/ubD5BNmvXVAEj1yH99BBV)（更新）
+
+## 前端-2021/01/31
+《JavaScript权威指南》
+> pdf笔记从liquid text迁移到margin note3了，目前感觉更好用！
+> 
+> （尚未总结到wolai博客中）
+- [x] 第4章：变量、作用域和内存问题
+  - [x] 4.1 基本类型和引用类型的值
+  - [x] 4.2 执行环境及作用域
+  - [x] 4.3 垃圾收集
+- [ ] 第5章：引用类型（未看完）
+  - [x] 5.1 Object 类型
+  - [x] 5.2 Array 类型
+  - [x] 5.3 Date 类型
+  - [x] 5.4 RegExp 类型
