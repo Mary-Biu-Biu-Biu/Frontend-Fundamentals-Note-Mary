@@ -14,3 +14,5 @@ console.log(color)
 
 let arr = [5, 10]
 console.log(arr.sort())
+
+function Person(name)

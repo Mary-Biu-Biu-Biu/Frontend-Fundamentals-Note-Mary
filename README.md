@@ -165,17 +165,17 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
   - [x] [2.40 js渲染阻塞](https://www.wolai.com/o2J8ZHjci27Fp43FuJFsjT)
 
 ## 前端-2021/01/28
-《JavaScript权威指南》总结
-- [x] 第1章：JavaScript简介（Js的构成）(https://www.wolai.com/mary/96Pfb9viTHaiV9Ymtj8prc)
+《JavaScript高级程序设计》总结
+- [x] [第1章：JavaScript简介（Js的构成）](https://www.wolai.com/mary/96Pfb9viTHaiV9Ymtj8prc)
 
 ## 前端-2021/01/29
-《JavaScript权威指南》总结
+《JavaScript高级程序设计》总结
 - [x] 第2章：在HTML中使用JavaScript
 - [x] 第3章：基本概念（未看完）
   - [x] [undefined，0，null，NaN区分](https://www.wolai.com/mary/ubD5BNmvXVAEj1yH99BBV)（更新）
 
 ## 前端-2021/01/31
-《JavaScript权威指南》
+《JavaScript高级程序设计》
 > pdf笔记从liquid text迁移到margin note3了，目前感觉更好用！
 > 
 > （尚未总结到wolai博客中）
@@ -188,3 +188,20 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
   - [x] 5.2 Array 类型
   - [x] 5.3 Date 类型
   - [x] 5.4 RegExp 类型
+
+## 前端-2021/02/01
+《JavaScript高级程序设计》
+> （尚未总结到wolai博客中）
+- [x] 第5章：引用类型
+  - [x] 5.5 Function 类型
+  - [x] 5.6 基本包装类型
+  - [x] 5.7 单体内置对象
+- [x] 第6章: 面向对象的程序设计
+  - [x] 6.1 理解对象
+  - [x] 6.2 创建对象
+  - [x] 6.3 继承
+- [x] 第7章: 函数表达式
+  - [x] 7.1 递归
+  - [x] 7.2 闭包
+  - [x] 7.3 模仿块级作用域
+  - [x] 7.4 私有变量
