@@ -205,3 +205,18 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
   - [x] 7.2 闭包
   - [x] 7.3 模仿块级作用域
   - [x] 7.4 私有变量
+
+## 前端-2021/02/02
+《JavaScript高级程序设计》
+> （尚未总结到wolai博客中）
+- [x] 第8章：BOM
+  - [x] 8.1 window 对象
+  - [x] 8.2 location 对象
+  - [x] 8.3 navigator 对象
+  - [x] 8.4 screen 对象
+  - [x] 8.5 history 对象
+- [x] 第9章：客户端检测
+  - [x] 9.1 能力检测
+  - [x] 9.2 怪癖检测
+  - [x] 9.3 用户代理检测
+- [ ] 第10章：DOM（未看完）
