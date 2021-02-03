@@ -220,3 +220,15 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
   - [x] 9.2 怪癖检测
   - [x] 9.3 用户代理检测
 - [ ] 第10章：DOM（未看完）
+
+## 前端-2021/02/03
+《JavaScript高级程序设计》
+- [x] 第10章：DOM
+- [x] 第11章：DOM 扩展
+- [ ] 第12章：DOM2 和DOM3（未看完+总结中）
+
+- [x] 今日总结
+  - [x] [第11 章：DOM 扩展](https://www.wolai.com/8mneQoVJAGRgHvrQPi2Gau)
+  - [x] [和CSS交互（选择符+类+样式）](https://www.wolai.com/jCGya1Z3HWmntXRNiDJQ4x)
+  - [x] [元素之间的关系](https://www.wolai.com/mary/iEVLThQHVEbRkq8r6grpZ8)
+  - [x] [页面滚动](https://www.wolai.com/sWyjKwJM3W6eCpbZubuJRt)

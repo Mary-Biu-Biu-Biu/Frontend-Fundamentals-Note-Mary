@@ -7,7 +7,8 @@
     <body>
         <ul id="parent">
             <li id="li1">1</li>
-            <li id="li1">2</li>
+            <!-- comment -->
+            <li id="li2">2</li>
             <li>3</li>
             <li>4</li>
         </ul>
@@ -15,8 +16,7 @@
     <script>
         let li1 = document.getElementById('li1')
         let ul = document.getElementById('parent')
-        ul.appendChild()
-        alert(ul.childNodes[2].innerHtml)
-        alert(li1.nextSibling.innerText)
+        console.log(ul.attributes.getNamedItem('id')) // id="parent"。属性是kay-value这种map的格式，getNamedItem这相当于通过key找到pair，而不是直接获得value。
+        console.log(li1.nextSibling.nextSibling) // nextSibling：包含文字节点（li之间的空白符）和comment节点的，所以是<!-- comment -->
     </script>
 </html>
