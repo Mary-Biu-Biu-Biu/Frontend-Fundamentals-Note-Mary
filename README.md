@@ -232,3 +232,9 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
   - [x] [和CSS交互（选择符+类+样式）](https://www.wolai.com/jCGya1Z3HWmntXRNiDJQ4x)
   - [x] [元素之间的关系](https://www.wolai.com/mary/iEVLThQHVEbRkq8r6grpZ8)
   - [x] [页面滚动](https://www.wolai.com/sWyjKwJM3W6eCpbZubuJRt)
+
+## 前端-2021/02/10
+《JavaScript高级程序设计》
+- [x] 第12章：DOM2 和DOM3（未看完+总结中）
+- [x] 第13章：事件
+- [x] 第14章：表单脚本
