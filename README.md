@@ -238,3 +238,6 @@ Javascript：[JavaScript 复习整理](https://www.wolai.com/mary/sxD9sU5x4MBmP5
 - [x] 第12章：DOM2 和DOM3（未看完+总结中）
 - [x] 第13章：事件
 - [x] 第14章：表单脚本
+
+## 前端-2021/02/14
+- [x] [ES6：解构](https://www.wolai.com/mary/ncvF1rJwyKG3Kw4oPY7gcz) 总结
